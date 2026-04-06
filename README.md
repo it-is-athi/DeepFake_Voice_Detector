@@ -83,6 +83,9 @@ python predict.py path\to\your\audiofile.flac
 ```
 
 ## 📊 Dataset Reference
-- **Dataset:** ASVspoof 5 (2024 Track)
+- **Dataset:** ASVspoof 5 Challenge (2024 Track)
 - **Format:** `.flac` audio files (16kHz)
-- **Source:** [University of Edinburgh Datashare - ASVspoof 5](https://datashare.ed.ac.uk/handle/10283/3336)
+- **Source:** [ASVspoof 5 Dataset on Zenodo](https://zenodo.org/records/14498691)
+- **Specific Files Used for this Project:** 
+  - `ASVspoof5_protocols.tar.gz` (Extracted `ASVspoof5.train.tsv` for true/fake labels)
+  - `flac_T_aa.tar` (Extracted raw `.flac` training audio files into `data/flac_T/`)
