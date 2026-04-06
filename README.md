@@ -82,7 +82,7 @@ python predict.py path\to\your\audiofile.flac
 ════════════════════════════════════════
 ```
 
-## 📊 Dataset Reference
+## Dataset Reference
 - **Dataset:** ASVspoof 5 Challenge (2024 Track)
 - **Format:** `.flac` audio files (16kHz)
 - **Source:** [ASVspoof 5 Dataset on Zenodo](https://zenodo.org/records/14498691)
