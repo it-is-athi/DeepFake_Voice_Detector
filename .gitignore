@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+fake/
+
+# Dataset and Models (Crucial!)
+data/
+*.tar
+*.tar.gz
+*.h5
+*.keras
+
+# Internal IDE files
+.vscode/
+.gemini/
